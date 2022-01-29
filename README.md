@@ -13,7 +13,7 @@ Two models were used to predict future movements in the value of the Canadian do
 
 ### Files
 
-[Time-Series Starter Notebook](time_series_analysis_js.ipynb)
+[Time-Series Starter Notebook](https://github.com/JakeKJShin/Assignment_10_Time_Series/blob/main/time_series_analysis_JS.ipynb)
 
 [Linear Regression Starter Notebook](https://github.com/JakeKJShin/Assignment_10_Time_Series/blob/main/regression_analysis_JS.ipynb)
 
